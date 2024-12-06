@@ -1,0 +1,17 @@
+לינק לקוד של השיעור-
+https://github.com/pythonai250824/01.12.2024
+
+לינק לוידאו סיכום (זמני)-
+https://drive.google.com/file/d/1VKM3361A4iv_itRyfdyhLCc2rccJUcZ1/view?usp=drive_link
+
+לינק לשיעורי הבית Basic Python - Final Work-
+לפתור תרגילים 1-7
+https://drive.google.com/file/d/1tR3bpAoFyC-ntPDvWOkhysDXWfmvfpt-/view?usp=drive_link
++ בונוס שאלת מחשבה/אתגר/רשות:
+https://leetcode.com/problems/plus-one/description/
+
+את שיעורי הבית יש להגיש ל-
+pythonai250824+basics@gmail.com
+
+שאר התרגילים, 8-21 הם לשבוע הבא...
+
